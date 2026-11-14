@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environments and Virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Chrome driver profile / logs
+.chrome_ma_profile/
+chromedriver
+*.log
+
+# Temporary files
+temp_*
+shift_*
+ren_*
+uniq_*
+*.tmp
+
+# Soal Asli UTS Dosen
+UTS IR 2026.pdf
+
